@@ -5,7 +5,7 @@
 ## A Post-Graduate Student (M.Tech.), Developer, and a Learner!!
 
 - 🌱 I’m currently learning Data Science.
-- 🥅 2021 Goals: Get a Job as a Data Scientist.
+- 🥅 2021 Goal: Get a Job as a Data Scientist.
 - ⚡ Fun fact: I love to sing, play guitar and edit pointless videos (mostly)!.
 
 
