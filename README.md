@@ -2,11 +2,11 @@
 
 
 
-## I'm a Post-Graduate Student (M.Tech.), Developer, and Learner!!
+## I'm a Post-Graduate Student (M.Tech.), Developer, and a Learner!!
 
 - 🌱 I’m currently learning Data Science 🤣
 - 🥅 2021 Goals: Get a Job as a Data Scientist.
-- ⚡ Fun fact: I love to sing,play guitar and editing pointless videos (mostly)!.
+- ⚡ Fun fact: I love to sing, play guitar and edit pointless videos (mostly)!.
 ### Connect with me:
 
 [<img align="left" alt="Pragyanand | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,7 +20,11 @@
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
+[<img align="left" alt="Terminal" width="100px" src="https://jupyter.org/assets/nav_logo.svg" />][linkedin]
+
+[<img align="left" alt="Terminal" width="100px" src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.svg" />][linkedin]
+
+
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 
