@@ -54,6 +54,6 @@
 
 [twitter]: https://twitter.com/pragyanand
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/little.tiwari/
+[instagram]: https://www.instagram.com/tantrictiwari/
 [linkedin]: https://www.linkedin.com/in/pragyanand/
 
