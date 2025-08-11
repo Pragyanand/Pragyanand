@@ -19,15 +19,3 @@
 
 <br />
 
----
-
-
-<br />
-<br />
-
----
-
-[twitter]: https://twitter.com/pragyanand
-[instagram]: https://www.instagram.com/tantrictiwari/
-[linkedin]: https://www.linkedin.com/in/pragyanand/
-
