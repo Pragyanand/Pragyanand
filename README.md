@@ -1,14 +1,20 @@
 ### Hi there, I'm Pragyanand Tiwari 👋
 
-## M.Tech. Graduate • Developer • Automation Enthusiast • AI Explorer
+## M.Tech. Graduate • Developer • Automation & AI Enthusiast
 
-- 🔭 Currently working on **automation workflows**, **data extraction**, and **AI-powered applications**.
-- 🌱 Learning & experimenting with **Data Science, Machine Learning, RAG (Retrieval-Augmented Generation)**, and **Astrology-based AI apps**.
-- ⚙️ Skilled in **Python scripting**, **SQL databases**, **Outlook automation**, **API integrations**, and **workflow tools** like **n8n** & **Power Automate**.
-- 📊 Interested in **data processing pipelines**, **embedding models**, and **astrology-related analytics**.
-- 🎯 Current Goal: Build **intelligent, automated, and scalable solutions** that solve real-world problems.
-- ⚡ Fun fact: I love to sing, play guitar, and edit hilariously random videos.
+- 🔭 Currently building **automation workflows** that integrate email, databases, and AI models.
+- 🌱 Exploring **RAG (Retrieval-Augmented Generation)**, embeddings, and **vector search** to create intelligent assistants.
+- 🧩 Working on **astrology-based AI tools** that combine planetary calculations with predictive analytics.
+- 📂 Developing **Outlook & Power Automate scripts** to process emails, extract structured data, and trigger workflows.
+- 📊 Creating **data pipelines** for parsing PDFs, Excel, and large text datasets.
+- 🛠 Experimenting with **n8n self-hosting**, API integrations, and real-time notification systems.
+- 🎯 Goal: Design **scalable, automated, AI-powered systems** that reduce manual effort to near zero.
+- ⚡ Fun fact: I love blending tech with creativity — from predictive astrology bots to random video edits.
 
 ---
-<br />
 
+💡 **Recent Work Highlights**
+- Built a system that automatically reads Outlook emails, extracts shift or leave data, validates sender identity, and updates SQL tables — with instant email confirmation.
+- Created a prototype astrology assistant that answers queries using AI + Vedic calculations.
+- Automated large-scale data cleaning and structuring for document processing.
+- Deployed workflows in **n8n** to connect multiple services with minimal manual intervention.
