@@ -14,7 +14,6 @@
 ---
 
 💡 **Recent Work Highlights**
-- Built a system that automatically reads Outlook emails, extracts shift or leave data, validates sender identity, and updates SQL tables — with instant email confirmation.
 - Created a prototype astrology assistant that answers queries using AI + Vedic calculations.
 - Automated large-scale data cleaning and structuring for document processing.
 - Deployed workflows in **n8n** to connect multiple services with minimal manual intervention.
